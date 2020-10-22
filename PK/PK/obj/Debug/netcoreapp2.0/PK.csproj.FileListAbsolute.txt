@@ -1,0 +1,11 @@
+C:\Users\Henry\Source\Repos\PK\PK\bin\Debug\netcoreapp2.0\PK.deps.json
+C:\Users\Henry\Source\Repos\PK\PK\bin\Debug\netcoreapp2.0\PK.runtimeconfig.json
+C:\Users\Henry\Source\Repos\PK\PK\bin\Debug\netcoreapp2.0\PK.runtimeconfig.dev.json
+C:\Users\Henry\Source\Repos\PK\PK\bin\Debug\netcoreapp2.0\PK.dll
+C:\Users\Henry\Source\Repos\PK\PK\bin\Debug\netcoreapp2.0\PK.pdb
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.AssemblyInfoInputs.cache
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.AssemblyInfo.cs
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.dll
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.pdb
+C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.csprojAssemblyReference.cache
