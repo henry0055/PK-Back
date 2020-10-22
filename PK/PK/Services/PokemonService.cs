@@ -28,8 +28,8 @@ namespace PK.Services
             try
             {
                 Random random = new Random();
-                int OffSet = random.Next(1, 10);
-                string AllUrl = "https://pokeapi.co/api/v2/pokemon?offset="+OffSet+"0&limit=11";
+                int OffSet = random.Next(1, 17);
+                string AllUrl = "https://pokeapi.co/api/v2/pokemon?offset="+OffSet+"0&limit=8";
                 RootObject RootObject = new RootObject();
                 var httpClient = new HttpClient();
                 var json = await httpClient.GetStringAsync(AllUrl);

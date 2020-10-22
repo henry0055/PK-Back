@@ -27,16 +27,7 @@ namespace PK
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IPokemonService, PokemonService>();
-            services.AddCors(options =>
-            {
-            options.AddPolicy("AllowAllHeaders",
-                  builder =>
-                  {
-                      builder.AllowAnyOrigin()
-                             .AllowAnyHeader()
-                             .AllowAnyMethod();
-                  });
-            });
+          
             services.AddMvc()
                 .AddJsonOptions(options =>
                 {
@@ -48,7 +39,7 @@ namespace PK
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             
-            app.UseCors("AllowAllHeaders");
+            
             
             if (env.IsDevelopment())
             {

@@ -8,4 +8,3 @@ C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.AssemblyInfoInputs.
 C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.AssemblyInfo.cs
 C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.dll
 C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.pdb
-C:\Users\Henry\Source\Repos\PK\PK\obj\Debug\netcoreapp2.0\PK.csprojAssemblyReference.cache
